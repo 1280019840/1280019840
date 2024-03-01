@@ -1,5 +1,4 @@
-### Hi there 👋
-<h2 align="center">👋 Hey! I'm Xuenew. 🐘</h2>
+### 👋 Hey! I'm Xuenew. 🐘
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
 <br />
