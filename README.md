@@ -1,9 +1,9 @@
-### 👋 Hey! I'm Xuenew. 🐘
-- 🔭你好呀！💡
+### 👋 Hey! I'm ZJH. 🐘
+- 🔭Hello！💡
 
-- 🤔这里是我的介绍，本人对golang比较感兴趣，想做一个有意思的golang开发工程师
+- 🤔Here is my introduction. I am interested in golang and want to be an interesting golang development engineer
 
-- ⚡ Fun fact:喜欢打篮球，喜欢跑步，喜欢听音乐，喜欢看电影
+- ⚡ Fun fact:Like playing basketball, like running, like listening to music, like watching movies
 
 <!-- Markdown -->
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0021F5?style=flat-square&logo=mysql&logoColor=white" />
